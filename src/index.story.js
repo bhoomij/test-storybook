@@ -13,7 +13,7 @@ export const withEmoji = () => (
   </Button>
 );
 
-export const newTest = () => (
+export const withNewTest = () => (
   <Button>
     <span role="img" aria-label="so cool">
      New Test Story
