@@ -12,3 +12,11 @@ export const withEmoji = () => (
     </span>
   </Button>
 );
+
+export const newTest = () => (
+  <Button>
+    <span role="img" aria-label="so cool">
+     New Test Story
+    </span>
+  </Button>
+);
